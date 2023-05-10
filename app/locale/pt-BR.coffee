@@ -91,8 +91,8 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
 
   new_home:
     title_coco: "CodeCombat - Codificando jogos para aprender Python e JavaScript"
-    title_ozar: "Ozaria - Ciência da computação que cativa"
-#    title_cn_home: "CodeCombat|Python, Javascript"
+    title_ozar: "Ozaria - Ciência da computação que vicia" # {change}
+    title_cn_home: "CodeCombat|Python, Javascript"
     meta_keywords_coco: "CodeCombat, python, javascript, Jogos de Codificação"
     meta_keywords_ozar: "CodeCombat, python, javascript, Jogos de Codificação, Programa de Ciência da Computação, Aventura, História Épica"
     meta_description_coco: "Aprenda o código digitado através de um jogo de programação. Aprenda Python, JavaScript e HTML enquanto resolve quebra-cabeças e aprende a criar seus próprios jogos e sites de programação."
@@ -119,7 +119,7 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     century_skills_subtitle3: "Colaboração"
     century_skills_subblurb3: "Ao longo do jogo, há oportunidades para os alunos colaborarem quando ficarem presos e trabalharem juntos usando nosso guia de programação em pares."
     century_skills_quote4: "Sempre tive aspirações de criar videogames e aprender a codificar ... isso está me dando um excelente ponto de partida."
-#    century_skills_quote4_author: "Joey, 10th Grade"
+    century_skills_quote4_author: "Joey, 1º Ano Ensino Médio" # {change}
     century_skills_subtitle4: "Comunicação"
     century_skills_subblurb4: "A codificação exige que as crianças pratiquem novas formas de comunicação, incluindo a comunicação com o próprio computador e a transmissão de suas ideias usando o código mais eficiente."
     classroom_in_box_title: "Nós nos esforçamos para:"
@@ -176,11 +176,12 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     quotes_quote2: " Fiquei surpreso com o quão fácil e intuitivo o CodeCombat torna o aprendizado da ciência da computação. As pontuações no exame AP foram muito maiores do que eu esperava e acredito que o CodeCombat é a razão pela qual este foi o caso."
     quotes_quote3: "O CodeCombat tem sido o mais benéfico para ensinar aos alunos a capacidade de codificação da vida real. Meu marido é engenheiro de software e testou todos os meus programas. Ele colocou isso como sua melhor escolha."
     quotes_quote4: "O feedback ... foi tão positivo que estamos estruturando uma aula de ciência da computação em torno do CodeCombat. O programa realmente envolve os alunos com uma plataforma de estilo de jogo que é divertida e instrutiva ao mesmo tempo. Mantenha o bom trabalho, CodeCombat!"
+    quotes_quote5: "Apesar de a aula começar as 07 da manhã, a empolgação do meu filho é tanta que ele eacorda bem cedo! O CodeCombate está criando um caminho para que meu filho desenvolva suas habilidades de programação" # {change}
 #    quotes_quote5: "Even though the class starts every Saturday at 7am, my son is so excited that he wakes up before me! CodeCombat creates a pathway for my son to advance his coding skills."
-#    quotes_quote5_author: "Latthaphon Pohpon, Parent"
+    quotes_quote5_author: "Latthaphon Pohpon, Pai" # {change}
     see_example: "Veja alguns exemplos"
     slogan: "O jogo mais envolvente para aprender programação." # {change}
-#    slogan_power_of_play: "Learn to Code Through the Power of Play"
+    slogan_power_of_play: "Aprenda a programar com o Poder do Jogo"
     teach_cs1_free: "Ensine CS1 grátis"
     teachers_love_codecombat_title: "Professores amam CodeCombat"
     teachers_love_codecombat_blurb1: "Relatam que seus alunos gostam de usar o CodeCombat para aprender a codificar"
@@ -210,16 +211,16 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     learn_to_code: "Aprenda a programar:"
     play_now: "Jogue Agora"
     im_a_parent: "Sou um Responsável"
-#    im_a_parent_description: "Explore our live online coding classes"
+    im_a_parent_description: "Conheça nossas salas virtuais" # {change}
     im_an_educator: "Eu sou um professor(a)"
-#    im_an_educator_description: "Teach Computer Science with CodeCombat"
+    im_an_educator_description: "Ensine Ciência da Computação com o CodeCombat" # {change}
     im_a_teacher: "Eu sou um professor(a)"
     im_a_student: "Eu sou um Aluno"
-#    im_a_student_description: "Learn Computer Science with your class"
-#    im_an_individual: "I'm an Individual"
-#    im_an_individual_description: "Play at home outside of a class setting"
+    im_a_student_description: "Aprenda Ciência da Computação com sua Turma" #{change}
+    im_an_individual: "Estou sozinho" #{change}
+    im_an_individual_description: "Jogue em qualquer lugar" #{change}
     learn_more: "Aprenda mais"
-#    check_it_out: "Check it out!"
+    check_it_out: "Confira" #{change}
     classroom_in_a_box: "Uma sala de aula in-a-box para o ensino de ciência da computação."
     codecombat_is: "CodeCombat é uma plataforma <strong>para estudantes</strong> aprenderem ciência da computação através de um jogo real."
     our_courses: "Nossos cursos foram pensados especificamente para <strong>o uso em sala de aula</strong>, mesmo para professores com pouco conhecimento prévio em programação."
@@ -278,7 +279,7 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
     want_coco: "Quer o CodeCombat na sua escola?"
     educator: "Educador"
     student: "Estudante"
-#    go_to_my_dashboard: "Go to My Dashboard"
+    go_to_my_dashboard: "Ver meu Painel" #{change}
     our_coding_programs: "Nossos Programas de Codificação"
     codecombat: "CodeCombat"
     ozaria: "Ozaria"
@@ -287,11 +288,11 @@ module.exports = nativeDescription: "Português (Brasil)", englishDescription: "
 #    ozaria_china_blurb: ""
     try_codecombat: "Experimente CodeCombat"
     try_ozaria: "Experimente Ozaria"
-#    explore_codecombat: "Explore CodeCombat"
-#    explore_ai_league: "Explore AI League"
-#    explore_ozaria: "Explore Ozaria"
-#    explore_online_classes: "Explore Online Classes"
-#    explore_pd: "Explore Professional Development"
+    explore_codecombat: "Conheça o CodeCombat" #{change}
+    explore_ai_league: "Conheça o Campeonato AI" #{change}
+    explore_ozaria: "Conheça o Ozaria" #{change}
+    explore_online_classes: "Conheça nossas salas virtuais" #{change}
+    explore_pd: "Conheça nosso treinamento para Professores" #{change}
 #    new_adventure_game_blurb: "Ozaria is our brand new adventure game and your turnkey solution for teaching Computer science. Our student-facing __slides__ and teacher-facing notes make planning and delivering lessons easier and faster."
 #    lesson_slides: "lesson slides"
 #    pd_blurb: "Learn the skills to effectively teach computer science with our self-directed, CSTA-accredited professional development course. Earn up to 40 credit hours any time, from any device. Pairs well with Ozaria Classroom."
